@@ -1,0 +1,2 @@
+bool with_bullet
+int16 shoot_number
